@@ -1,0 +1,6 @@
+{
+  "name": "Samadhan Setu - Civic Problem Solving Platform",
+  "description": "A community-driven civic problem-solving platform for Jharkhand, connecting citizens, verified local experts, and institutions to resolve civic challenges.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
